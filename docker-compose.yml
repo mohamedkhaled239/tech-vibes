@@ -1,0 +1,16 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        # Vite inlines these at build time — pass from your shell/.env
+        VITE_EMAILJS_SERVICE_ID: ${VITE_EMAILJS_SERVICE_ID}
+        VITE_EMAILJS_TEMPLATE_ID: ${VITE_EMAILJS_TEMPLATE_ID}
+        VITE_EMAILJS_PUBLIC_KEY: ${VITE_EMAILJS_PUBLIC_KEY}
+        VITE_SITE_URL: ${VITE_SITE_URL:-https://tech-vibes.org}
+    image: techvibes-web
+    container_name: techvibes-web
+    ports:
+      - "8080:80"
+    restart: unless-stopped

@@ -1,0 +1,582 @@
+{
+  "common": {
+    "languageSwitcher": {
+      "ar": "العربية",
+      "en": "English",
+      "label": "Switch language"
+    },
+    "backToTop": "Back to top",
+    "previous": "Previous",
+    "next": "Next",
+    "close": "Close",
+    "loading": "Loading…"
+  },
+  "notFoundPage": {
+    "title": "Page Not Found",
+    "text": "The page you're looking for doesn't exist or may have been moved.",
+    "backHome": "Back to Home"
+  },
+  "meta": {
+    "siteName": "TECH VIBES",
+    "home": {
+      "title": "TECH VIBES — Building Digital Experiences That Drive Growth",
+      "description": "Transforming ideas into high-performance software and marketing solutions for the next generation of business."
+    },
+    "services": {
+      "title": "Services — TECH VIBES",
+      "description": "Mobile apps, web development, digital marketing and branding — engineered for modern businesses."
+    },
+    "portfolio": {
+      "title": "Portfolio & Case Studies — TECH VIBES",
+      "description": "Explore our track record of transforming complex challenges into elegant, revenue-driving digital products."
+    },
+    "about": {
+      "title": "About Us — TECH VIBES",
+      "description": "Why industry leaders choose Tech Vibes to engineer their digital growth."
+    },
+    "contact": {
+      "title": "Contact Us — TECH VIBES",
+      "description": "Let's transform your vision into a high-performance digital product."
+    },
+    "notFound": {
+      "title": "Page Not Found — TECH VIBES",
+      "description": "The page you're looking for doesn't exist or may have been moved."
+    }
+  },
+  "nav": {
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "process": "Process",
+    "about": "About",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToMain": "Skip to main content"
+  },
+  "hero": {
+    "heading": "Building Digital Experiences That Drive Growth",
+    "subheading": "Transforming ideas into high-performance software and marketing solutions for the next generation of business.",
+    "getStarted": "Get Started",
+    "viewPortfolio": "View Portfolio"
+  },
+  "services": {
+    "badge": "What We Do",
+    "heading": "Our Expertise",
+    "subheading": "Comprehensive solutions tailored for modern enterprises.",
+    "items": {
+      "mobile": {
+        "title": "Mobile App Development",
+        "description": "Building sleek iOS & Android experiences."
+      },
+      "web": {
+        "title": "Web Development",
+        "description": "High-performance, scalable web applications."
+      },
+      "pos": {
+        "title": "POS Systems",
+        "description": "Modern retail solutions for smart businesses."
+      },
+      "uiux": {
+        "title": "UI/UX Design",
+        "description": "Crafting intuitive and beautiful digital products."
+      },
+      "marketing": {
+        "title": "Digital Marketing",
+        "description": "Data-driven strategies for growth."
+      },
+      "ads": {
+        "title": "Meta & Google Ads",
+        "description": "Maximizing ROI through targeted campaigns."
+      }
+    }
+  },
+  "portfolioGrid": {
+    "eyebrow": "Our Work",
+    "heading": "Selected Works",
+    "subheading": "A track record of shipping high-performance products for ambitious brands.",
+    "viewAll": "View All Case Studies",
+    "viewCaseStudy": "View Case Study",
+    "cards": {
+      "growth": {
+        "title": "Growth Engine",
+        "subtitle": "Performance Marketing • Ad Reach",
+        "tags": [
+          "Growth Focused"
+        ]
+      },
+      "q8nitro": {
+        "title": "Q8Nitro",
+        "subtitle": "Mobile App • Automotive Community, Kuwait",
+        "tags": [
+          "Flutter",
+          "iOS & Android"
+        ],
+        "statLabel": "Time to Market"
+      },
+      "sytourism": {
+        "title": "Sy Tourism",
+        "subtitle": "Mobile App • Syrian Ministry of Tourism",
+        "tags": [
+          "Flutter",
+          "Government"
+        ],
+        "statLabel": "Official Government Launch"
+      },
+      "easytrips": {
+        "title": "Easy Trips Egypt",
+        "subtitle": "Web Platform • Travel Booking, Egypt",
+        "tags": [
+          "Angular",
+          "Laravel"
+        ],
+        "statLabel": "easytripsegypt.com"
+      },
+      "sooqcars": {
+        "title": "Sooq Al Sayarat",
+        "subtitle": "Web Platform • Automotive Marketplace",
+        "tags": [
+          "Angular",
+          "Marketplace"
+        ],
+        "statLabel": "90+ Brands • Multi-Country"
+      },
+      "vertex": {
+        "title": "VERTEX Maison",
+        "subtitle": "Web Platform • Interior Design & Architecture",
+        "tags": [
+          "Angular",
+          "Luxury Brand"
+        ],
+        "statLabel": "vertexmaison.com"
+      },
+      "ancientegypt": {
+        "title": "Ancient Egypt",
+        "subtitle": "Mobile App • Heritage Commerce",
+        "tags": [
+          "Flutter",
+          "iOS & Android"
+        ],
+        "statLabel": "6 Languages • Published"
+      },
+      "halarashaqaty": {
+        "title": "Hala Rashaqaty",
+        "subtitle": "Mobile App • Wellness Booking",
+        "tags": [
+          "Flutter",
+          "Booking"
+        ],
+        "statLabel": "4-Step Booking • Published"
+      }
+    }
+  },
+  "portfolio": {
+    "heading": "Selected Works",
+    "viewCaseStudy": "View Case Study",
+    "page": {
+      "badge": "Portfolio & Case Studies",
+      "heading": "Our Work",
+      "headingHighlight": "Speaks for Itself",
+      "subheading": "We engineer scalable, high-performance digital experiences. Explore our track record of transforming complex challenges into elegant, revenue-driving solutions for forward-thinking brands.",
+      "startProject": "Start Your Project",
+      "viewServices": "View Services",
+      "filterAll": "All",
+      "noProjectsTitle": "No Projects Found",
+      "noProjectsText": "We are constantly engineering new solutions in this category. Ready to collaborate and build your custom product?",
+      "letsDiscuss": "Let's Discuss",
+      "featuredBadge": "Featured Case Study",
+      "featuredTitle": "Scaling",
+      "featuredHighlight": "Aurora Innovations",
+      "featuredSuffix": "to 1M+ Users",
+      "challenge": "The Challenge",
+      "challengeText": "Aurora needed a robust, real-time analytics dashboard capable of handling massive data streams without compromising UI responsiveness.",
+      "solution": "The Solution",
+      "solutionText": "We architected a custom WebGL visualization layer integrated with a highly optimized React frontend and Node.js microservices.",
+      "readFullStudy": "Read Full Study",
+      "userRetention": "User Retention",
+      "latency": "Latency",
+      "testimonials": {
+        "badge": "Trusted by Visionaries",
+        "subheading": "Don't just take our word for it. Here's what engineering leaders and founders have to say about our partnership.",
+        "highestRated": "Highest Rated",
+        "testimonial1": "TECH VIBES didn't just build an app; they architected a scalable platform that became the foundation of our entire digital strategy. Their attention to detail in the UI is unmatched.",
+        "name1": "Elena K.",
+        "role1": "CTO, NeoBank",
+        "testimonial2": "Working with this agency feels like having an elite internal product team. They understand complex technical requirements and translate them into breathtaking, intuitive interfaces.",
+        "name2": "Marcus R.",
+        "role2": "VP Product, Cybernetics",
+        "testimonial3": "The speed and quality of execution were phenomenal. They took our vague concept and delivered a polished, market-ready MVP in weeks instead of months.",
+        "name3": "Sarah L.",
+        "role3": "Founder, Orbit Analytics"
+      },
+      "cta": {
+        "heading": "Ready to Build Something",
+        "headingHighlight": "Exceptional?",
+        "subheading": "Stop settling for average digital experiences. Partner with us to engineer a product that outpaces the competition.",
+        "getQuote": "Get a Quote",
+        "contactUs": "Contact Us"
+      }
+    },
+    "categories": {
+      "all": "All",
+      "webDev": "Web Development",
+      "mobileApps": "Mobile Apps",
+      "branding": "Branding",
+      "marketing": "Marketing"
+    },
+    "projects": {
+      "q8nitro": {
+        "title": "Q8Nitro",
+        "description": "A full-featured mobile application built with Flutter and powered by a robust PHP Laravel backend, delivering a seamless and high-performance user experience."
+      },
+      "sytourism": {
+        "title": "Sy Tourism",
+        "description": "The official mobile app of the Syrian Ministry of Tourism — landmarks, archaeological sites, tourism news, and official events in one trusted, Arabic-first platform."
+      },
+      "easytrips": {
+        "title": "Easy Trips Egypt",
+        "description": "A bilingual, server-rendered travel booking platform — dynamic packages and hotels, WhatsApp-first booking, and a multi-portal management backend. Live at easytripsegypt.com."
+      },
+      "sooqcars": {
+        "title": "Sooq Al Sayarat",
+        "description": "An Arabic car marketplace uniting a new-and-used car catalog with a peer-to-peer listings market — advanced search, comparison, and direct buyer-seller chat. Live at sooqalsayarat.net."
+      },
+      "vertex": {
+        "title": "VERTEX Maison",
+        "description": "A premium corporate website for an interior design and architecture studio — an editorial, image-led experience showcasing services, mood boards, and projects. Live at vertexmaison.com."
+      },
+      "ancientegypt": {
+        "title": "Ancient Egypt",
+        "description": "A multi-vertical commerce app uniting authentic Egyptian food, clothing, original perfumes, and guided tours — published on the App Store and Google Play in six languages."
+      },
+      "halarashaqaty": {
+        "title": "Hala Rashaqaty",
+        "description": "An Arabic wellness appointment-booking app — a guided four-step booking flow, live availability calendar, and full appointment management, published on the App Store."
+      }
+    }
+  },
+  "cta": {
+    "heading": "Let's Build Something Amazing Together",
+    "button": "Start Your Project"
+  },
+  "about": {
+    "advantage": "The Advantage",
+    "heading": "Why Leaders Choose Tech Vibes",
+    "subheading": "We combine technical excellence with growth-focused strategies to deliver measurable impact in a digital-first world.",
+    "stats": {
+      "projects": "Projects Completed",
+      "reach": "Ad Reach",
+      "satisfaction": "Client Satisfaction",
+      "years": "Years Innovation"
+    },
+    "methodology": "Methodology",
+    "processHeading": "Our Engineered Workflow",
+    "processSubheading": "A precision-driven approach from initial concept to scalable deployment.",
+    "steps": {
+      "strategy": {
+        "label": "Strategy",
+        "description": "Deep market analysis and growth planning architecture."
+      },
+      "design": {
+        "label": "Design",
+        "description": "High-fidelity UI/UX and cohesive brand architecture."
+      },
+      "development": {
+        "label": "Development",
+        "description": "Scalable engineering and performance optimization."
+      },
+      "launch": {
+        "label": "Launch",
+        "description": "Seamless deployment and marketing acceleration."
+      }
+    },
+    "validation": "Validation",
+    "testimonialsHeading": "Success Stories from Our Partners",
+    "testimonialsSubheading": "Hear from industry leaders who have scaled their operations with our technical expertise.",
+    "testimonials": [
+      {
+        "quote": "Tech Vibes fundamentally transformed our infrastructure. Their approach to high-performance software engineering allowed our neo-bank to scale 10x without compromising speed or security.",
+        "name": "Alex Mercer",
+        "role": "Founder of Fintech Neo-Bank"
+      },
+      {
+        "quote": "The marketing growth strategies implemented by the team yielded measurable impact within the first quarter. Their blend of technical precision and creative vision is unmatched in the agency space.",
+        "name": "Sarah Chen",
+        "role": "CMO at Global AI Solutions"
+      },
+      {
+        "quote": "Working with Tech Vibes feels like having an in-house elite engineering squad. They delivered a highly complex SaaS platform on time, with an architecture that is built for the future.",
+        "name": "Marcus Vance",
+        "role": "Director of Product"
+      }
+    ]
+  },
+  "servicesPage": {
+    "chips": [
+      "AI Powered",
+      "Scalable Systems",
+      "Performance Focused"
+    ],
+    "heading": "Services Built for Modern Businesses",
+    "subheading": "We combine software engineering, modern design, and performance marketing to help brands scale faster.",
+    "services": {
+      "mobile": {
+        "title": "MOBILE APP DEVELOPMENT",
+        "description": "Cross-platform mobile apps built with modern scalable technologies."
+      },
+      "web": {
+        "title": "WEB DEVELOPMENT",
+        "description": "Fast, responsive, and modern web platforms designed for growth."
+      },
+      "pos": {
+        "title": "POS SYSTEMS",
+        "description": "Smart POS solutions for restaurants, retail stores, and businesses."
+      },
+      "marketing": {
+        "title": "DIGITAL MARKETING",
+        "description": "Performance-driven campaigns focused on reach, leads, and conversions."
+      },
+      "uiux": {
+        "title": "UI/UX DESIGN",
+        "description": "Clean and intuitive user experiences crafted for modern audiences, focusing on engagement and conversion."
+      },
+      "branding": {
+        "title": "BRANDING & IDENTITY",
+        "description": "Strategic branding that builds trust and recognition."
+      }
+    }
+  },
+  "contact": {
+    "heading": "Ready to Build the Future?",
+    "subheading": "Let's transform your vision into a high-performance digital product.",
+    "faqTitle": "FAQ",
+    "basedIn": "Based in Egypt",
+    "location": "Assiut, Egypt",
+    "form": {
+      "name": "Name",
+      "namePlaceholder": "Your Name",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+20 1XX XXX XXXX",
+      "projectType": "Project Type",
+      "projectTypePlaceholder": "Select a project type",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your vision...",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "successMsg": "Message sent! We'll be in touch soon.",
+      "errorMsg": "Something went wrong. Please try again or email us directly.",
+      "requiredField": "This field is required.",
+      "invalidEmail": "Please enter a valid email address.",
+      "invalidPhone": "Please enter a valid phone number.",
+      "projectTypes": {
+        "mobile": "Mobile App Development",
+        "web": "Web Development",
+        "pos": "POS System",
+        "uiux": "UI/UX Design",
+        "marketing": "Digital Marketing",
+        "branding": "Branding & Identity",
+        "other": "Other"
+      }
+    },
+    "faq": [
+      {
+        "question": "What is your typical timeline?",
+        "answer": "Most MVPs are delivered within 8-12 weeks, depending on technical complexity and AI integration requirements."
+      },
+      {
+        "question": "How do you handle scalability?",
+        "answer": "We utilize cloud-native architectures and microservices to ensure your product scales seamlessly from day one."
+      },
+      {
+        "question": "Do you provide ongoing support?",
+        "answer": "Yes, we offer dedicated maintenance retainers ensuring your tech stack remains cutting-edge and secure."
+      }
+    ]
+  },
+  "footer": {
+    "branches": "Our Branches",
+    "address": "Assiut, El Hoqoqyeen District, Street No. 11",
+    "contactInfo": "Contact Info",
+    "importantLinks": "Important Links",
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "showcase": "Showcase",
+    "contactUs": "Contact Us",
+    "tagline": "One of the leading companies in the field of web development and design in Egypt and the Arab world.",
+    "copyright": "© {{year}} TECH VIBES. Engineered for the future.",
+    "chatWhatsApp": "Chat on WhatsApp",
+    "callDirect": "Call Direct"
+  },
+  "projectDetails": {
+    "backToShowcase": "Back to Showcase",
+    "theChallenge": "The Challenge",
+    "theSolution": "The Solution",
+    "projectInfo": "Project Information",
+    "client": "Client",
+    "timeline": "Timeline",
+    "servicesRendered": "Services Rendered",
+    "liveLink": "Live Link",
+    "visitLiveSite": "Visit Live Site",
+    "techStack": "Engineering & Tech Stack",
+    "inspiredBy": "Inspired by {{title}}?",
+    "inspiredText": "Partner with Tech Vibes to build a similarly high-performance platform engineered specifically for your commercial scaling demands.",
+    "startSimilar": "Start Similar Project",
+    "browseAll": "Browse All Projects",
+    "notFound": "Project Not Found",
+    "notFoundText": "The project ID you are trying to view does not exist in our system, or it may have been moved.",
+    "backToProjects": "Back to Showcase"
+  },
+  "caseStudy": {
+    "hero": {
+      "caseStudySuffix": "Case Study",
+      "ctaPrimary": "Start a project like this",
+      "ctaLive": "Visit live site",
+      "factClient": "Client",
+      "factIndustry": "Industry",
+      "factYear": "Year",
+      "factTimeline": "Timeline",
+      "factServices": "Services"
+    },
+    "overview": {
+      "eyebrow": "The Brief",
+      "title": "Where the story starts",
+      "goalsHeading": "Business goals"
+    },
+    "solution": {
+      "eyebrow": "Our Solution",
+      "title": "How we turned it around"
+    },
+    "process": {
+      "eyebrow": "The Process",
+      "title": "Six phases, zero guesswork",
+      "lead": "Every engagement runs the same disciplined arc — research to launch — tuned to the project's shape."
+    },
+    "branding": {
+      "eyebrow": "Identity System",
+      "title": "A brand, piece by piece",
+      "lead": "Logo, color, type and rules — the four instruments every touchpoint plays in tune.",
+      "typography": "Typography",
+      "guidelinesHeading": "Brand guidelines — the rules that keep it sharp",
+      "copy": "Copy",
+      "copied": "Copied!",
+      "swatchAria": "{{name}}, {{hex}} — click to copy"
+    },
+    "marketing": {
+      "eyebrow": "Campaign Performance",
+      "title": "The dashboard our client wakes up to",
+      "kpiRoas": "Blended ROAS",
+      "kpiCtr": "Average CTR",
+      "kpiCpa": "Cost per acquisition",
+      "kpiImpressions": "Impressions",
+      "trendHeading": "Performance index by month",
+      "trendLead": "Blended revenue-per-spend, indexed to the September peak (100).",
+      "channelsHeading": "Spend by channel",
+      "channelsLead": "Share of budget and channel-level ROAS.",
+      "tooltipFormat": "{{month}} · index {{value}}"
+    },
+    "showcase": {
+      "eyebrow": "The Interface",
+      "titleMobile": "Designed for thumbs, built for speed",
+      "titleDefault": "Every pixel, on purpose",
+      "lead": "Tap any screen to explore it fullscreen."
+    },
+    "features": {
+      "eyebrow": "What We Shipped",
+      "title": "Features that carry their weight"
+    },
+    "techStack": {
+      "eyebrow": "Under the Hood",
+      "title": "Built with"
+    },
+    "results": {
+      "eyebrow": "The Results",
+      "title": "Numbers that closed the argument"
+    },
+    "beforeAfter": {
+      "eyebrow": "Transformation",
+      "title": "Before / After"
+    },
+    "related": {
+      "eyebrow": "Keep Exploring",
+      "title": "More stories like this",
+      "allProjects": "All projects"
+    },
+    "stickyCta": {
+      "heading": "Ready to build your project?",
+      "cta": "Let's talk"
+    },
+    "finalCta": {
+      "headingLine1": "Your project could be",
+      "headingLine2": "the next case study.",
+      "lead": "Tell us where your product is stuck — we'll show you the shortest path to numbers like these.",
+      "cta": "Let's talk",
+      "browseAll": "Browse all projects"
+    },
+    "notFound": {
+      "title": "Project Not Found",
+      "text": "The case study you are looking for does not exist, or it may have been moved.",
+      "back": "Back to Portfolio"
+    },
+    "gallery": {
+      "openFullscreen": "Open {{alt}} in fullscreen",
+      "closeViewer": "Close image viewer",
+      "previousImage": "Previous image",
+      "nextImage": "Next image"
+    },
+    "web": {
+      "floating": {
+        "eyebrow": "The Product",
+        "title": "Not a screenshot. A living site.",
+        "lead": "Move your cursor through the scene — every window sits at its own depth."
+      },
+      "journey": {
+        "eyebrow": "Page by Page",
+        "title": "The site, told as a story",
+        "lead": "Five sections, each pulling its weight — scroll through the journey a visitor takes."
+      },
+      "scroll": {
+        "eyebrow": "Take the tour",
+        "headingLine1": "Keep scrolling —",
+        "headingLine2": "the site scrolls with you."
+      },
+      "hotspots": {
+        "eyebrow": "Under your fingertips",
+        "headingLine1": "Every feature,",
+        "headingLine2": "exactly where",
+        "headingLine3": "it lives.",
+        "lead": "No feature list. Touch the glowing points on the screen — each one explains the engineering underneath that exact pixel."
+      },
+      "workspace": {
+        "eyebrow": "Behind the Screens",
+        "title": "The workspace it was born in",
+        "lead": "Palette, type, grid and code — the working materials, left on the desk.",
+        "colorSystem": "Color system",
+        "typography": "Typography",
+        "grid": "12-column grid"
+      },
+      "deviceMorph": {
+        "eyebrow": "Every Screen",
+        "title": "One design. Four devices. Zero compromises.",
+        "chooseDevice": "Choose a device",
+        "devices": {
+          "desktop": "Desktop",
+          "laptop": "Laptop",
+          "tablet": "Tablet",
+          "mobile": "Mobile"
+        }
+      },
+      "performance": {
+        "eyebrow": "Engineering Report",
+        "title": "Audited, not asserted",
+        "lead": "Lighthouse scores from the production deployment — enforced in CI on every pull request.",
+        "performance": "Performance",
+        "accessibility": "Accessibility",
+        "bestPractices": "Best Practices",
+        "seo": "SEO"
+      }
+    }
+  }
+}
