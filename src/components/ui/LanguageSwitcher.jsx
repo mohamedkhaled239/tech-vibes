@@ -16,7 +16,7 @@ export default function LanguageSwitcher({ className = '' }) {
     <div
       role="group"
       aria-label={t('common.languageSwitcher.label')}
-      className={`inline-flex items-center gap-0.5 p-1 rounded-full bg-white/5 border border-white/10 ${className}`}
+      className={`inline-flex items-center gap-0.5 p-0.5 md:p-1 rounded-full bg-white/5 border border-white/10 ${className}`}
     >
       {['ar', 'en'].map((lng) => (
         <button
@@ -24,7 +24,7 @@ export default function LanguageSwitcher({ className = '' }) {
           type="button"
           onClick={() => setLang(lng)}
           aria-pressed={current === lng}
-          className={`px-3.5 py-2 min-h-[40px] touch-manipulation rounded-full font-['Geist'] text-[12px] font-semibold uppercase tracking-wider transition-all duration-300 cursor-pointer ${
+          className={`px-3 md:px-3.5 py-1.5 md:py-2 min-h-[34px] md:min-h-[40px] touch-manipulation rounded-full font-['Geist'] text-[11px] md:text-[12px] font-semibold uppercase tracking-wider transition-all duration-300 cursor-pointer ${
             current === lng
               ? 'bg-[#b7aee6] text-[#312a59] shadow-sm'
               : 'text-[#c9c5d0] hover:text-[#e2dfff]'

@@ -60,7 +60,7 @@ export default function Navbar() {
             className="flex items-center no-underline hover:opacity-80 transition-opacity"
             aria-label="TECH VIBES homepage"
           >
-            <img src={logo} alt="TECH VIBES Logo" className="h-[65px] md:h-[75px] object-contain" />
+            <img src={logo} alt="TECH VIBES Logo" className="h-[80px] md:h-[75px] object-contain" />
           </Link>
 
           {/* Desktop Nav */}
@@ -78,7 +78,7 @@ export default function Navbar() {
 
           {/* Language switcher + CTA + Hamburger */}
           <div className="flex items-center gap-3">
-            <LanguageSwitcher className="hidden md:inline-flex" />
+            <LanguageSwitcher />
 
             <Link to="/contact" className="hidden md:inline-flex">
               <Button variant="nav" aria-label={t('nav.getStarted')}>
@@ -128,8 +128,7 @@ export default function Navbar() {
                 {t(`nav.${link.key}`)}
               </NavLink>
             ))}
-            <LanguageSwitcher className="mt-3 self-center" />
-            <Link to="/contact" className="mt-2 w-full block text-center" onClick={closeMenu}>
+            <Link to="/contact" className="mt-3 w-full block text-center" onClick={closeMenu}>
               <Button variant="nav" className="w-full text-center">
                 {t('nav.getStarted')}
               </Button>

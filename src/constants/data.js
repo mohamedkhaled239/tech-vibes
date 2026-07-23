@@ -23,14 +23,14 @@ export const STATS = [
     icon: 'rocket_launch',
     iconBg: 'bg-[#42e3ff]/10',
     iconColor: 'text-[#42e3ff]',
-    value: '50+',
+    value: '20+',
   },
   {
     id: 'reach',
     icon: 'visibility',
     iconBg: 'bg-[#b7aee6]/10',
     iconColor: 'text-[#b7aee6]',
-    value: '120K+',
+    value: '30K+',
   },
   {
     id: 'satisfaction',
@@ -44,7 +44,7 @@ export const STATS = [
     icon: 'military_tech',
     iconBg: 'bg-[#b7aee6]/10',
     iconColor: 'text-[#b7aee6]',
-    value: '4+',
+    value: '2+',
   },
 ]
 
